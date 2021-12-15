@@ -16,4 +16,4 @@ For Setup please follow the following instructions:
 7. the open the browser and type http://localhost:8000/
 8. The program should display perfectly as intended.
 
-Any problems running the program, please contact at b.julien@alustudent.com, p.ikirezi@alustudent.com or g.landelin@
+Any problems running the program, please contact at b.julien@alustudent.com, p.ikirezi@alustudent.com or g.landelin@alustudent.com
