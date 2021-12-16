@@ -8,7 +8,7 @@ It is designed using HTML, CSS, Javascript(including Vue js as a framework) on t
 For Setup please follow the following instructions:
 
 1. import the sql(called aluconnect.sql) file in the project files in database. Its key for the database to be called aluconnect
-2. for all to be working, xampp should be opened
+2. for all to be working, xampp should be opened and activated
 3. open the project folder in vscode and open the terminal
 4. enter the command: npm install
 5. after npm install, enter: npm run dev
